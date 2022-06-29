@@ -1,4 +1,4 @@
-namespace TradeCategory.Service
+namespace TradeCategory.Model
 {
     public interface ITrade
     {

@@ -1,9 +1,11 @@
+using TradeCategory.Service;
+
 namespace TradeCategory.Model
 {
-public class Trade
+public class Trade:ITrade
 {
-    double Value { get; set; } //indica o valor da transação em dólares
-    string? ClientSector { get; set; }//indica o setor do cliente que pode ser "Público" ou "Privado"
-    DateTime NextPaymentDate { get; set; } //indi
+    public double Value { get; set; }
+    public string ClientSector { get; set; }
+    public DateTime NextPaymentDate { get; set; }
 }
 }
