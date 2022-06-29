@@ -2,10 +2,11 @@
 
 ## Problema: Categorizar negócios na carteira de um banco
 
-```Um banco tem uma carteira de milhares de negócios e eles precisam ser categorizados. Uma troca é uma negociação comercial
-cliente entreabankanda. Atrade tem muitas características, incluindo:
 ```
 
+Um banco tem uma carteira de milhares de negócios e eles precisam ser categorizados. Uma troca é uma negociação comercial
+cliente entreabankanda. Atrade tem muitas características, incluindo:
+```
 
  Atualmente, existem três categorias (em ordem de precedência):
  ```
